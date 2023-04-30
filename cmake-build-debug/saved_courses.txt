@@ -1,0 +1,17 @@
+1:2#3#4/4
+2:3#4#5/6
+3:3#3#3/3
+Compiler:3#COMP3322#Computer Science/tp1,tppp2,tppppp4
+Discrete Mathmatics:3#COMP233#Computer Science/Prop.Logic,Predicates,Number Theory
+dfasdhgfdbs:4#4#4/4
+Arabic:2#ZHF123#Languages/tp1,tp2,tp3,rp3
+dsavfcz:4#4#4/4
+Organization1:3#ENCS2360#Computer Engineering/tp2,tp1,tp2,tp4
+Organization2:3#ENCS2360#Computer Engineering/tp2,tp1,tp2,tp4
+English B2.2:2#ENGC2202#English Language/Grammers,Reading,Writing,Listening
+lokjhmngbf:4#4#4/4
+Data structures:4#COMP2421#Computer Science/recursion, time analysis, linked lists, stacks, queues, trees, bst, avl, splay, b_trees, hash, heaps, sorting, graphs
+l,kjmhngbf:4#4#4/4
+das:4#4#4/4
+Introduction to French:3#FREN111#French Language/letters, numbers, greetings, grammars, statements
+Introduction to programming:3#COMP133#Computer Science/algorithms, introduction to c, functions, selection, loops, pointers, arrays, structs
